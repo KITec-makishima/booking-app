@@ -9,6 +9,7 @@ backend/.env
 frintend/.env
 /.pnp
 .pnp.js
+reservation-system/backend/service-account-key.json
 
 # testing
 /coverage
